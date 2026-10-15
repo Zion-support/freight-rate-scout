@@ -1,11 +1,10 @@
 # 🌐 Zion AI App Network
 
-Part of the **Zion AI App Network** — 770+ interlinked AI apps, tools and playbooks by [Zion Tech Group](https://ziontechgroup.com).
+- 🌐 Live page: https://ziontechgroup.com/freight-rate-scout/
+- 🗂️ Network hub: https://ziontechgroup.com/zion-app-network/
+- ✨ Restored F 2026: https://ziontechgroup.com/zion-app-network/app/network-restored-f-2026-showcase.html
+- 🗺️ Master Directory: https://ziontechgroup.com/zion-app-network/app/network-master-directory-2026.html
+- 🔎 Free AI Discovery: https://ziontechgroup.com/discovery/
+- 🏠 Zion Tech Group: https://ziontechgroup.com
 
-- 🏠 Home: https://ziontechgroup.com
-- 🗂️ Directory: https://ziontechgroup.com/zion-app-network/
-- 🐙 Hub: https://github.com/Zion-support/zion-app-network
-- 🌐 Live app: https://ziontechgroup.com/freight-rate-scout/
-- 🔗 Related: [Demand Sensing Hub](https://ziontechgroup.com/demand-sensing-hub/) · [Inventory Forecast AI](https://ziontechgroup.com/inventory-forecast-ai/) · [Discovery](https://ziontechgroup.com/discovery/)
-
-© 2026 Zion Tech Group.
+Inspect the README for documented status; publication is not proof of AI functionality.
